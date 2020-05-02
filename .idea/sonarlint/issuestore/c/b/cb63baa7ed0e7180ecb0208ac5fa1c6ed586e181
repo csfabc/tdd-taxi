@@ -1,0 +1,7 @@
+
+[
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Âš¢­ùÿÿÿÿ8øû„—.
+E
+java:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8øû„—.
+>
+java:S1643"Use a StringBuilder instead.(êû‚Öùÿÿÿÿ8éªê—.

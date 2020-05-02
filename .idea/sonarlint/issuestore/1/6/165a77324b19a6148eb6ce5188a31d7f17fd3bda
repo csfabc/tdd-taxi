@@ -1,0 +1,19 @@
+
+q	java:S116"WRename this field "PERCENT_LONG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œõ¬¸úÿÿÿÿ
+s	java:S116"YRename this field "MILEAGE_SECOND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÉ½‚øÿÿÿÿ
+o	java:S116"ZRename this field "UNIT_PRICE_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÕÄ¯
+7
+java:S1170"!Make this final field static too.(ìÁ“
+<
+java:S1170"!Make this final field static too.(ÇÉ½‚øÿÿÿÿ
+w	java:S116"]Rename this field "UNIT_PRICE_MILEAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹†Ğµûÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(Œõ¬¸úÿÿÿÿ
+m	java:S116"XRename this field "MILEAGE_FIRST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Šó¡
+<
+java:S1170"!Make this final field static too.(‹†Ğµûÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(ÌÕÄ¯
+j	java:S116"URename this field "BASE_PRICE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÁ“
+7
+java:S1170"!Make this final field static too.(¸Šó¡
